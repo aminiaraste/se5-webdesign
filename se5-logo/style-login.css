@@ -1,0 +1,147 @@
+.back{
+    background-image: linear-gradient( rgb(237, 55, 231),rgb(22, 22, 199));
+    margin: 0;
+    height: 900px;
+    
+}
+.wheit{
+    
+    background-color: white;
+    position: absolute;
+    width: 400px;
+    height: 700px;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+h1{
+    margin-top: 70px;
+    margin-left:150px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+  
+   height: 300px;
+}
+.x{
+    width: 260px;
+    height: 50px;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background: #f2f2f2;
+    padding-left: 40px;
+    font-size: 15px;
+    opacity: 0.7;
+    border: none;
+    
+}
+.y{
+    width: 260px;
+    height: 50px;
+    margin-left: 40px;
+    border-radius: 10px;
+    background: #f2f2f2;
+    padding-left: 40px;
+    font-size: 20px;
+    opacity: 0.5;
+    border: none;
+}
+.z{
+    width: 300px;
+    height: 50px;
+    margin-left: 40px;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(230, 43, 221);
+    border: none;
+    cursor: pointer;
+}
+#remmember{
+    margin-left: 80px;
+    opacity: 0.5;
+    
+}
+.fa-regular{
+    position: absolute;
+    width: 60px;
+    margin-top: 60px;
+    margin-left: 55px;
+    color: gray;
+}
+.fa-lock{
+    position: absolute;
+    width: 60px;
+    margin-top: 20px;
+    margin-left: 55px;
+    color: gray;
+}
+.fa-square-check{
+    position: absolute;
+    width: 60px;
+    margin-top: 17px;
+    margin-left: 55px;
+    color: rgb(230, 43, 221);
+}
+#or{
+    
+    margin-top: 40px;
+    margin-left: 140px;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.3;
+}
+.botton{
+    
+}
+.f{
+    border: solid #f2f2f2;
+    border-radius: 5px;
+    color: #4267B2;
+    float: left;
+    width: 140px;
+    height: 25px;
+    margin-top: 40px;
+    margin-left: 40px;
+    text-align: center;
+    padding-bottom: 15px;
+}
+.g{
+    border: solid #f2f2f2;
+    border-radius: 5px;
+    float: right;
+    width: 140px;
+    height: 25px;
+    margin-top: 40px;
+    margin-right: 40px;
+    text-align: center;
+    padding-bottom: 15px;
+}
+.fa-square-facebook{
+    color: #4267B2;
+    
+}
+.img{
+    position: absolute;
+    margin-top: 13px;
+    margin-left: -50px;
+    width: 20px;
+    height: 20px;
+}
+.footer{
+    background-color: red;
+    margin-top: 180px;
+}
+#footer-left{
+    float: left;
+    margin-left: 100px;
+    color: rgb(185, 184, 184);
+    
+    
+}
+#footer-right{
+    float: right;
+    margin-right: 115px;
+    color: rgb(185, 184, 184);
+    text-decoration: underline;
+   
+}
